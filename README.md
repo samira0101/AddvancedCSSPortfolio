@@ -20,7 +20,7 @@ To access this project on GitHub you can follow these links:
 
 GitHub repository: git@github.com:samira0101/AddvancedCSSPortfolio.git
 
-GitHub url: https://github.com/samira0101/AddvancedCSSPortfolio.git
+GitHub url: https://samira0101.github.io/AddvancedCSSPortfolio/
 
 
 ## Refrences
