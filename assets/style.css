@@ -133,17 +133,27 @@ h1 {
     background-color: #182C61;
     color: #fff;
 }
+.btn {
+    width: 115px;
+    height: 50px;
+    border-radius: 80px;
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 30;
+    padding-top: 5px;
+    margin-top: 50px;
+  }
 
-
-.fa-facebook {
+.fa-linkedin {
     background: #3B5998;
     color: white;
     text-decoration: none;
   }
   
   
-  .fa-twitter {
-    background: #55ACEE;
+  .fa-github {
+    background: #000000;
     color: white;
     text-decoration: none;
   }
@@ -159,7 +169,7 @@ h1 {
   }
 
   h2 {
-      font-size: 45px;
+      font-size: 20px;
       margin-bottom: 10px ;
   }
 
@@ -219,4 +229,40 @@ h1 {
         width:100%;
     }
 }
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
+* {
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  height: 100%;
+}
+section {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+section::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  content: '';
+  width: 100%;
+  height: 80%;
+  background: -webkit-linear-gradient(top,rgba(0,0,0,0) 0,rgba(0,0,0,.8) 80%,rgba(0,0,0,.8) 100%);
+  background: linear-gradient(to bottom,rgba(0,0,0,0) 0,rgba(0,0,0,.8) 80%,rgba(0,0,0,.8) 100%);
+}
+section h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 2;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font : normal 300 64px/1 'Josefin Sans', sans-serif;
+  text-align: center;
+  white-space: nowrap;
+}
+
 
