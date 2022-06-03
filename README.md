@@ -18,17 +18,18 @@ Now that Phase 1 has been completed I have learned the front end of web developm
 <!--Steps to follow to see the project-->
 To access this project on GitHub you can follow these links:
 
-GitHub repository: git@github.com:samira0101/Samira-H-Portfolio.git
+GitHub repository:
+https://github.com/samira0101/Samira-H-Portfolio.git
 
-GitHub url: https://github.com/samira0101/Samira-H-Portfolio.git
-
+GitHub live url:
+https://samira0101.github.io/Samira-H-Portfolio/
 ## Previous version of my portfolio
 
-![draft 1](Images\screencapture-samira0101-github-io-AddvancedCSSPortfolio-2022-04-23-22_41_15.png)
+![draft 1](Images\draft1.png)
 
-![draft 2](Images\screencapture-127-0-0-1-5500-index-html-2022-06-03-21_36_54.png)
+![draft 2](Images\draft2.png)
 
-![draft 3 - updated version](Images\screencapture-127-0-0-1-5500-index-html-2022-06-03-22_09_09.png)
+![draft 3 - updated version](Images\finaldraft.png)
 
 ## Refrences
 <!--guidance used to complete this project-->
