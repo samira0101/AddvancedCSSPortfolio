@@ -23,7 +23,12 @@ GitHub repository: git@github.com:samira0101/Samira-H-Portfolio.git
 GitHub url: https://github.com/samira0101/Samira-H-Portfolio.git
 
 ## Previous version of my portfolio
-.\Images\screencapture-samira0101-github-io-AddvancedCSSPortfolio-2022-04-23-22_41_15.png
+
+![draft 1](Images\screencapture-samira0101-github-io-AddvancedCSSPortfolio-2022-04-23-22_41_15.png)
+
+![draft 2](Images\screencapture-127-0-0-1-5500-index-html-2022-06-03-21_36_54.png)
+
+![draft 3 - updated version](Images\screencapture-127-0-0-1-5500-index-html-2022-06-03-22_09_09.png)
 
 ## Refrences
 <!--guidance used to complete this project-->
