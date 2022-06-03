@@ -25,11 +25,11 @@ GitHub live url:
 https://samira0101.github.io/Samira-H-Portfolio/
 ## Previous version of my portfolio
 
-![draft 1](images/draft1.png)
+![](images/draft1.png)
 
-![draft 2](images/draft2.png)
+![](images/draft2.png)
 
-![draft 3 - updated version](images/finaldraft.png)
+![](images/finaldraft.png)
 
 ## Refrences
 <!--guidance used to complete this project-->
